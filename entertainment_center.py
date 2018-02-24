@@ -34,7 +34,7 @@ dunkirk = media.Movie("Dunkirk",
 wall_e = media.Movie("WALL-E",
                      "IMDb 8.14/10",
                      "https://upload.wikimedia.org/wikipedia/en/c/c2/WALL-Eposter.jpg",
-                     "https://www.youtube.com/watch?v=qGBZWbg_26A")
+                     "https://www.youtube.com/watch?v=alIq_wG9FNk")
 
 terminator_2 = media.Movie("Terminator 2",
                            "IMDb 8.5/10",
